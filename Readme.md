@@ -1,8 +1,8 @@
 Twrp device tree for the Retroid Pocket 2
 
 
-Following this page for building
-https://gist.github.com/rokibhasansagar/15c8e728d94a6bd35a687aac73ef79a5
+Reference for build/repo 
+https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni/tree/twrp-8.1
 
 
 Based on https://github.com/mt8163/android_device_bq_aquaris_m8 and https://github.com/Black-Seraph/android_twrp_gpd_gpd_en
